@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepak
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning react ts
+- 🌱 I’m currently learning react 
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me: LinkedIn, E-Mail
 - 😄 Pronouns: he/him/his

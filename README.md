@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Deepak
 
-🎓 Final-Year Computer Science Student at Indian Institute of Information Technology, Pune  
+🎓 Final-Year Computer Science Student at PES Institute of Technology and Management, shivamogga  
 💻 Full-Stack Developer building scalable web platforms  
 🤖 Enthusiast in Systems Architecture & Cloud Technologies  
 
@@ -44,7 +44,7 @@ Actively seeking **Cloud Technologies** and **Backend Developer** roles where I 
 
 ## 🌍 Connect With Me
 
-📧 kjdeepak2514@gmail.com  
+📧 gmail: kjdeepak2514@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/deepak-kj-work  
 🌐 Portfolio:
 📄 Resume: Available upon request  

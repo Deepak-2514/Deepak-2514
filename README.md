@@ -46,8 +46,6 @@ Actively seeking **Cloud Technologies** and **Backend Developer** roles where I 
 
 📧 gmail: kjdeepak2514@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/deepak-kj-work  
-🌐 Portfolio:
-📄 Resume: Available upon request  
 
 ---
 

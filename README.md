@@ -1,12 +1,56 @@
-- 👋 Hi, I’m Deepak
-- 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me: LinkedIn, E-Mail
-- 😄 Pronouns: he/him/his
+# 👋 Hi, I'm Deepak
 
+🎓 Final-Year Computer Science Student at Indian Institute of Information Technology, Pune  
+💻 Full-Stack Developer building scalable web platforms  
+🤖 Enthusiast in Systems Architecture & Cloud Technologies  
 
-<!---
-Deepak-2514/Deepak-2514 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I enjoy turning complex problems into simple, efficient, and production-ready solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+`Python` • `JavaScript` • `TypeScript` • `Java` • `SQL`
+
+### Frontend
+`React` • `Next.js` • `Tailwind CSS` • `Redux`
+
+### Backend
+`Node.js` • `Express.js` • `REST APIs`
+
+### Databases
+`PostgreSQL` • `MongoDB` • `Firebase`
+
+### Tools & DevOps
+`Git` • `Linux` • `CI/CD`
+
+---
+
+## 📈 What I’m Currently Working On
+
+- 🔭 Building a microservices-based e-commerce backend  
+- 🌱 Learning system design & Kubernetes  
+- 👯 Open to collaborating on AI & SaaS products  
+- 💬 Ask me about backend & REST APIs  
+
+---
+
+## 🎯 Career Goals
+
+Actively seeking **Cloud Technologies** and **Backend Developer** roles where I can contribute to scalable systems and impactful products.
+
+---
+
+## 🌍 Connect With Me
+
+📧 kjdeepak2514@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/deepak-kj-work  
+🌐 Portfolio:
+📄 Resume: Available upon request  
+
+---
+
+## ⚡ Beyond Code
+
+When I’m not coding, I enjoy strength training, playing chess, and exploring productivity systems.

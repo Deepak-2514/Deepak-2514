@@ -8,25 +8,6 @@ I enjoy turning complex problems into simple, efficient, and production-ready so
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-`Python` • `JavaScript` • `TypeScript` • `Java` • `SQL`
-
-### Frontend
-`React` • `Next.js` • `Tailwind CSS` • `Redux`
-
-### Backend
-`Node.js` • `Express.js` • `REST APIs`
-
-### Databases
-`PostgreSQL` • `MongoDB` • `Firebase`
-
-### Tools & DevOps
-`Git` • `Linux` • `CI/CD`
-
----
-
 ## 📈 What I’m Currently Working On
 
 - 🔭 Building a microservices-based e-commerce backend  

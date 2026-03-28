@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Deepak
 
-🎓 Final-Year Computer Science Student at PES Institute of Technology and Management, shivamogga  
+🎓 Computer Science Student   
 💻 Full-Stack Developer building scalable web platforms  
 🤖 Enthusiast in Systems Architecture & Cloud Technologies  
 
@@ -8,28 +8,28 @@ I enjoy turning complex problems into simple, efficient, and production-ready so
 
 ---
 
-## 📈 What I’m Currently Working On
+## - What I’m Currently Working On
 
-- 🔭 Building a microservices-based e-commerce backend  
+- 🔭 Building a microservices-based application  
 - 🌱 Learning system design & Kubernetes  
 - 👯 Open to collaborating on AI & SaaS products  
 - 💬 Ask me about backend & REST APIs  
 
 ---
 
-## 🎯 Career Goals
+## - Career Goals
 
 Actively seeking **Cloud Technologies** and **Backend Developer** roles where I can contribute to scalable systems and impactful products.
 
 ---
 
-## 🌍 Connect With Me
+## - Connect With Me
 
-📧 gmail: kjdeepak2514@gmail.com  
+📧 Gmail: kjdeepak2514@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/deepak-kj-work  
 
 ---
 
-## ⚡ Beyond Code
+## - Beyond Code
 
 When I’m not coding, I enjoy strength training, playing chess, and exploring productivity systems.
